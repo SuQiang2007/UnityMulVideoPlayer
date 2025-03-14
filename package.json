@@ -1,0 +1,27 @@
+{
+  "name": "com.sky-lancer.unity-mul-video-player",
+  "description": "A video playback solution that can switch between video playback methods such as AVPro and Unity's native VideoPlayer.",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "displayName": "UnityMulVideoPlayer",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.1",
+    "com.unity.burst": "1.8.9",
+    "com.unity.render-pipelines.core": "14.0.9",
+    "com.unity.shadergraph": "14.0.9",
+    "com.unity.render-pipelines.universal-config": "14.0.9"
+  },
+  "keywords": [
+    "graphics",
+    "video",
+    "player",
+    "avpro"
+  ],
+  "samples": [
+    {
+      "displayName": "Sky",
+      "description": "Collection of scenes showcasing different features of the Universal Render Pipeline.",
+      "path": "Samples~/URPPackageSamples"
+    }
+  ]
+}
